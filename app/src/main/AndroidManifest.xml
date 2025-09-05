@@ -1,0 +1,19 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.teemtracker">
+
+    <application
+        android:allowBackup="true"
+        android:label="TeemTracker"
+        android:theme="@style/Theme.Material3.DayNight.NoActionBar">
+        <activity android:name=".TeamAct" />
+        <activity android:name=".MainAct" />
+        <activity android:name=".LoginAct"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">63086762176</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsGREjJGa7I3J4DX12yGqtcP5JVWdmLhw</string>
+    <string name="google_app_id" translatable="false">1:63086762176:android:5d794ce9c1207f6069b525</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsGREjJGa7I3J4DX12yGqtcP5JVWdmLhw</string>
+    <string name="google_storage_bucket" translatable="false">teemtracker-fba3e.firebasestorage.app</string>
+    <string name="project_id" translatable="false">teemtracker-fba3e</string>
+</resources>

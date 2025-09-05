@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63086762176",
+    "project_id": "teemtracker-fba3e",
+    "storage_bucket": "teemtracker-fba3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63086762176:android:5d794ce9c1207f6069b525",
+        "android_client_info": {
+          "package_name": "com.example.teemtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGREjJGa7I3J4DX12yGqtcP5JVWdmLhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background image -->
+    <item>
+        <bitmap
+            android:src="@drawable/bg_login_img"
+            android:gravity="" />
+    </item>
+
+    <!-- Dim overlay -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#66000000"/> <!-- 40% black -->
+        </shape>
+    </item>
+</layer-list>
